@@ -16,7 +16,7 @@ This project implements an agent capable of understanding and responding to natu
 ### Prerequisites
 
 - Python 3.6 or higher
-- Virtual environment tool (optional but recommended)
+- Virtual environment tool (strongly recommended)
 
 ### Steps
 
@@ -37,6 +37,9 @@ This project implements an agent capable of understanding and responding to natu
 4. **Set up the database:**
    ```bash
    python create_db.py
+
+4. **Set up your API key and default model of choice in the config.yaml file:**
+   
 
 ## Usage
 
