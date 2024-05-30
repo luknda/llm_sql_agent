@@ -1,0 +1,9 @@
+# LLM model configuration file, expandable to multiple models
+default:
+  model_type: gemini
+
+gemini: #gemini-1.5-flash
+  api_key: "AIzaSyDS2pGQdaJFHHsB1VDUUKzmrlj8Ch0fr2Y"
+
+openai: #openai-gpt
+  api_key: "sk-proj-9jV72M9TuMhbU1Kejix6T3BlbkFJpzhaXx3lDaJIE83VtMLN"
