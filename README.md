@@ -38,7 +38,7 @@ This project implements an agent capable of understanding and responding to natu
    ```bash
    python create_db.py
 
-4. **Set up your API key and default model of choice in the config.yaml file:**
+4. **Set up your API key and default model of choice in the config.yaml file.**
    
 
 ## Usage
